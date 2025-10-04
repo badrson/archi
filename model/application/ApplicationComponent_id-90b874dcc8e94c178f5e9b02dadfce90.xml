@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" CAM_NSM"
+    id="id-90b874dcc8e94c178f5e9b02dadfce90">
+  <properties
+      key="001-System"
+      value="NSM (Oracle WebLogic)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Need confirmation on the Testing Ownership for End-to-End Testing."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;95% completed - Pending testing related sessions &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;01/10/2025 Testing responsibility need to be aligned, ownership of the action is not clear. Once aligned, testing SPOCs needed for Oracle to conduct test strategy and plans&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

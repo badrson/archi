@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAM_EBS_WFMS"
+    id="id-552cece23cbd4fe389d4946377a1faed">
+  <properties
+      key="001-System"
+      value="EBS WFMS (Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="No SPOC"/>
+  <properties
+      key="008-Discovery sessions status"
+      value="No SPOC"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="01/10/2025 SPOC is not provided yet, product owner is un-responsive, all dependent work is delayed."/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

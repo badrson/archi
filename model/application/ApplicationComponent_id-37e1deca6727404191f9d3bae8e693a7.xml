@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDAM_SafeNet"
+    id="id-37e1deca6727404191f9d3bae8e693a7">
+  <properties
+      key="001-System"
+      value="SafeNet (Non-Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Design Team didn’t confirm for migration as there is another initiative in progress."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;25% completed - Stopped because another initiative in progress &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;01/10/2025 PMO support is needed to close the point at a management level. Safenet is currently being phased out, new replacement is an agent hosted in Sieble, migration of the customizations in SIeble should be responsibility of the SafeNet owners. 1. Agent to be hosted on Siebel servers and safeNet Solaris LDOMs to be decommissioned. 2. The agent to be migrated to Linux3. Vendor engagement is needed to know the plan.4. Lower env. was not in original scope, now STC needs to include it in the scope.&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

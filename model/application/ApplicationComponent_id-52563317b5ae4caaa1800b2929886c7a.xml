@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUS_RAID"
+    id="id-52563317b5ae4caaa1800b2929886c7a">
+  <properties
+      key="001-System"
+      value="RAID8 (Non-Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Mobileum"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Need confirmation on appl owners alignment for activities. Vendor engagement is required."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;25% completed - Stopped because vendor engagement required &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;1. Vendor engagement needed, they need a budget2. We started the Discovery sessions.3. NonProd was not in scope, and STC wants to migrate these env. as wel4. STC wants the storage 50TB to be shared not in one place, this will have impact in extra cost, Oracle is checking.5. There is a DB which needs to connect to the storage, Oracle to confirm&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

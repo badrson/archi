@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAM_CRM_B2B"
+    id="id-f7d6b89ec8024a4a85e41361173e8d0e">
+  <properties
+      key="001-System"
+      value="Siebel B2B (Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Need confirmation on the Testing Ownership for End-to-End Testing."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;95% completed remaining - Pending testing related sessions &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;01/10/2025 DB clone responsibility need to be clarified, implied cost need to be estimated and highlighted to management. Testing responsibility need to be aligned, ownership of the action is not clear. Once aligned, testing SPOCs needed for Oracle to conduct test strategy and plans&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

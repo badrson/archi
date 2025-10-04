@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAM_CRM_B2C"
+    id="id-5f39ca53bf9a4043902719fc29f7aaee">
+  <properties
+      key="001-System"
+      value="Siebel B2C (Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="&quot;-STC doesn’t commit to an ETA for providing iformation. Many information items delayed-Need confirmation on the Testing Ownership for End-to-End Testing.&quot;"/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;95% completed remaining - Pending testing related sessions &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;02/10/2025 DB clone is rejected by the CAM GM and Oracle should be investigating and revert back with the best approach-Testing responsibility need to be aligned, ownership of the action is not clear. Once aligned, testing SPOCs needed for Oracle to conduct test strategy and plans-Confirmation of migration strategy&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

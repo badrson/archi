@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CBU_ODS"
+    id="id-380bce4bf32d49548ae9659506172234">
+  <properties
+      key="001-System"
+      value="ODS Exadata"/>
+  <properties
+      key="002-Type"
+      value="DB"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Design and Operations didn’t confirm alignment for migration."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="A final confirmation about descoping it is needed. "/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;30/9/2025 topic escalated to PMO and Shaher is following up with operations. No update yet1. The operation team did not attend the meeting 22/9/25 as they think ODS will not be migrated.No Discovery Sessions/No Input from STC&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

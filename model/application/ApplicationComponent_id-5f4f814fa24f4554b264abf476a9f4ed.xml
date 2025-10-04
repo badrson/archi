@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUS_CMS"
+    id="id-5f4f814fa24f4554b264abf476a9f4ed">
+  <properties
+      key="001-System"
+      value="CMS (Non-Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="BMC"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Current application is out of support and requires Appl Upgrade and vendor engagement and ownership from TechRefresh Team."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="A final confirmation about descoping it is needed. If in scope then an alignment on vendor engagement and upgrade is required"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;01/10/2025 it is been mentioned during a kickoff workshop that CMS and RTTS is out of TR scope (No official/written confimration received)1. Currently RTTS and CMS are running on version 9 which is about 10 years old and recent version is 22. For new platform, it must be upgraded to new version.2. Currently there is a project for consolidation of RTTS/CMS/ITSM. Management intervention is needed to prioritize between this and C3 migration.3. Non-prod servers are not part of the current scope. Nayeem to share the list and project team to make decision on these.4. RTTS/CMS to be moved from DC Jedda to Dammam, Application owner to provide plan for The move.&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

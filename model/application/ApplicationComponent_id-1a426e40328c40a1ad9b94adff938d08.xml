@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUS_EBS_ERP"
+    id="id-1a426e40328c40a1ad9b94adff938d08">
+  <properties
+      key="001-System"
+      value="EBS ERP (Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Oracle"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Waiting for stc feedback on Migration/Testing Strategy "/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;95% completed - Pending testing related sessions &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;01/10/2025 Testing responsibility need to be aligned, ownership of the action is not clear. Once aligned, testing SPOCs needed for Oracle to conduct test strategy and plans&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

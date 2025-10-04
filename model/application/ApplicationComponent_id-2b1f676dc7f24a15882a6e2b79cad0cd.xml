@@ -1,0 +1,34 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CBU_BSSTEAI"
+    id="id-2b1f676dc7f24a15882a6e2b79cad0cd">
+  <properties
+      key="001-System"
+      value="BSST EAI (Non-Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Software AG"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="Need confirmation on appl owners alignment for activities. Design Team needs budget."/>
+  <properties
+      key="008-Discovery sessions status"
+      value="&quot;40% completed - Stopped because vendor engagement required &quot;"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="&quot;1. Vendor engagement needed, they need a budget2. We started the Discovery sessions.&quot;"/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>

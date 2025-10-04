@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITOPs_Informatica"
+    id="id-8959f43cdb8e46bfa0c42d7d75627085">
+  <properties
+      key="001-System"
+      value="Informatica ILM (B2C CRM/ULA) (Non-Oracle)"/>
+  <properties
+      key="002-Type"
+      value="Application"/>
+  <properties
+      key="003-Description"/>
+  <properties
+      key="004-Mother Company"
+      value="Informatica"/>
+  <properties
+      key="005-Target Track"
+      value="Oracle"/>
+  <properties
+      key="006-Migration Wave"/>
+  <properties
+      key="007-Planning Status/Risks/Blockers"
+      value="IT Operations team need Vendor engagement."/>
+  <properties
+      key="008-Discovery sessions status"/>
+  <properties
+      key="009-Statues / Remarks "
+      value="01/10/2025 PMO alignment is needed with management to confirm vendor/mother company engagement "/>
+  <properties
+      key="010-Status Executive Summary"/>
+  <properties
+      key="011-Status"/>
+</archimate:ApplicationComponent>
