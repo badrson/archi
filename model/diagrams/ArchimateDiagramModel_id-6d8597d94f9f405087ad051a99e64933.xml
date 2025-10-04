@@ -274,7 +274,7 @@
         name="Type: Database"
         font="1|Segoe UI|22.2|0|WINDOWS|1|-37|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textAlignment="1"
-        fillColor="#cae7c0">
+        fillColor="#ffffdf">
       <bounds
           x="48"
           y="600"
